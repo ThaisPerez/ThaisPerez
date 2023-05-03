@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#4F5D95&height=120&section=header](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif"/>
+<img width=100% src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Thais+Perez;Tenho+23+anos;Moro+em++Porto+Velho,+RO;Formada+em+Sistemas+de+Informação;e;Tecnóloga+em+Redes+de+Informação;Na+instituição+Uniron;+Bem-vindo+)](https://git.io/typing-svg)
 
