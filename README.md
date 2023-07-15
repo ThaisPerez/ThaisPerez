@@ -26,4 +26,4 @@
 ![Snake animation](https://github.com/ThaisPerez/ThaisPerez/blob/output/github-contribution-grid-snake.svg)
 
 
-<img src=”https://rawgit.com/afonsopacifer/flex-grid-framework/master/readme-cover.svg" alt=”Flex Grid Framework”>
+
